@@ -1,0 +1,12 @@
+name: "Penguins Fan Club"
+navbar:
+  title: "I love penguins"
+  left:
+    - text: "Data"
+      href: index.html
+    - text: "Single Trait Distribution"
+      href: about.html
+    - text: "Relationship between multiple traits"
+      href: about.html
+    - text: "Sexual dimorphism"
+output_dir: "."

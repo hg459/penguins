@@ -1,0 +1,14 @@
+---
+title: "Data"
+author: "Hannah"
+date: "2023-02-09"
+output: html_document
+---
+
+![Chinstrap Penguin](https://www.antarctica.gov.au/site/assets/files/45534/chinstrap.514x600.jpg)
+
+![Gentoo Penguin](https://www.bortonoverseas.com/wp-content/uploads/5-Fun-Facts-About-Antarcticas-Gentoo-Penguin_preview.jpg)
+![Adelie penguin](https://polarjournal.ch/wp-content/uploads/2022/06/Adeliepinguin_Portrait.jpg)
+
+
+This data set includes information like bill length, flipper length, body mass, sex, and island for the three different species pictured above. 
