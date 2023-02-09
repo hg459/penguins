@@ -1,9 +1,11 @@
 ---
-title: "Data"
+title: "data"
 author: "Hannah"
 date: "2023-02-09"
 output: html_document
 ---
+
+## Data
 
 ![Chinstrap Penguin](https://www.antarctica.gov.au/site/assets/files/45534/chinstrap.514x600.jpg)
 
@@ -12,5 +14,3 @@ output: html_document
 
 
 This data set includes information like bill length, flipper length, body mass, sex, and island for the three different species pictured above. 
-
-rmarkdown::render_site()
