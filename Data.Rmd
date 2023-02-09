@@ -12,3 +12,5 @@ output: html_document
 
 
 This data set includes information like bill length, flipper length, body mass, sex, and island for the three different species pictured above. 
+
+rmarkdown::render_site()
