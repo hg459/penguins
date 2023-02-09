@@ -3,12 +3,13 @@ navbar:
   title: "I love penguins"
   left:
     - text: "Data"
-      href: index.html
+      href: data.html
     - text: "Single Trait Distribution"
-      href: about.html
+      href: signle-trait-distribution.html
     - text: "Relationship between multiple traits"
-      href: about.html
+      href: relationship-between-mutliple-traits.html
     - text: "Sexual dimorphism"
+      href: sexual-dimorphism.html
 output_dir: "."
 output:
   html_document:
