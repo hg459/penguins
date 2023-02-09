@@ -5,26 +5,13 @@ date: "2023-02-09"
 output: html_document
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+## Data
 
-## R Markdown
+![Chinstrap Penguin](https://www.antarctica.gov.au/site/assets/files/45534/chinstrap.514x600.jpg)
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+![Gentoo Penguin](https://www.bortonoverseas.com/wp-content/uploads/5-Fun-Facts-About-Antarcticas-Gentoo-Penguin_preview.jpg)
+![Adelie penguin](https://polarjournal.ch/wp-content/uploads/2022/06/Adeliepinguin_Portrait.jpg)
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
 
-```{r cars}
-summary(cars)
-```
+This data set includes information like bill length, flipper length, body mass, sex, and island for the three different species pictured above. 
 
-## Including Plots
-
-You can also embed plots, for example:
-
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
